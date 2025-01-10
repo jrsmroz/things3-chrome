@@ -1,0 +1,26 @@
+{
+   "savePageToThings": {
+      "description": "Save page to Things",
+      "message": "Save page to Things"
+   },
+   "saveSelectionToThings": {
+      "description": "Save selection to Things",
+      "message": "Save selection to Things"
+   },
+   "saveLinkToThings": {
+      "description": "Save link to Things",
+      "message": "Save link to Things"
+   },
+   "extDesc": {
+      "description": "Extension Description",
+      "message": "Save to Things.app"
+   },
+   "extName": {
+      "description": "Extension Name",
+      "message": "Things Chrome extension"
+   },
+   "extTitle": {
+      "description": "Extension Title",
+      "message": "Things"
+   }
+}

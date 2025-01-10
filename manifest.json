@@ -1,0 +1,21 @@
+{
+   "manifest_version": 3,
+   "version": "1.0.0",
+   "name": "__MSG_extName__",
+   "description": "__MSG_extDesc__",
+   "action": {
+      "default_icon": {
+         "128": "resources/icon.png"
+      }
+   },
+   "background": {
+      "service_worker": "src/background.js",
+      "type": "module"
+   },
+   "default_locale": "en",
+   "homepage_url": "https://github.com/jrsmroz/things3-chrome",
+   "icons": {
+      "128": "resources/icon.png"
+   },
+   "permissions": [ "scripting", "activeTab", "contextMenus" ]
+}
